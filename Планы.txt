@@ -1,0 +1,22 @@
+Плагины:
+-Brewery
+-AuthMe
+-EssentialsX
+-InventoryRollback
+-CoreProtect
+-CoreProtectTNT
+-AdvancementBan
+-Invsee++
+-Oraxen / ItemsAdder
+-TAB
+-Chatty
+-Discord Chat Bot
+
+Планы:
+-Привязать к сайту (хз чета надо придумать)
+-Написать сайт
+-Захостить сайт
+-Найти и подготовить сид; мир
+-Создать паблики: ВК ТГ ДС 
+-Аватарка (1080x1080)
+-Обложка (1920x768)
