@@ -1,16 +1,17 @@
 Плагины:
--Brewery
--AuthMe
--EssentialsX
--InventoryRollback
--CoreProtect
--CoreProtectTNT
--AdvancementBan
--Invsee++
--Oraxen / ItemsAdder
--TAB
--Chatty
--Discord Chat Bot
+-Brewery1
+-AuthMe!
+-EssentialsX!
+-InventoryRollback! 
+-CoreProtect !
+-CoreProtectTNT!
+-AdvancementBan !
+-Invsee++ !
+-Oraxen / ItemsAdder /
+-TAB !
+-Chatty !
+-Discord Chat Bot !
+-LuckPerms !
 
 Планы:
 -Привязать к сайту (хз чета надо придумать)
